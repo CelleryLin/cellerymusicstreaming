@@ -32,9 +32,14 @@
     background: rgba(78, 64, 64, 0.6);
     color: white;
     box-shadow: 1px 2.5px 5px 1px rgba(0, 0, 0, 0.2);
-    
-    
 }
+
+.fa-download {
+    background: rgba(105, 75, 29, 0.6);
+    color: white;
+    box-shadow: 1px 2.5px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
 html {
     background: palegreen;
     background: url('https://i.imgur.com/d2tSTCV.jpg') no-repeat center center fixed;
